@@ -1,8 +1,8 @@
-# (Titlu)
-Drum machine - un sequencer cu 16 pasi si functie de random pattern. Contine si un reverb pe master channel, cu un knob de dry/wet.
-## (Instalare)
+# Drum machine
+Un sequencer cu 16 pasi si functie de random pattern. Contine si un reverb pe master channel, cu un knob de dry/wet.
+## Instalare
 Este necesara utilizarea programului Max 8 pentru a putea rula.
-## (Utilizare)
+## Utilizare
 1. Pentru a porni drum machine-ul, se va folosi butonul de "Play/Pause".
 2. Fiecare dintre sunete are un slider separat pentru a putea modifica individual volumul.
 3. Pentru a porni reverbul. se va folosi knob-ul de Dry/Wet.
