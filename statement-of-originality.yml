@@ -1,31 +1,27 @@
 # adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
 # put *your* name here
-name:
+name: Girghescu Gabriel-Valentin
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
   own work, with the following exceptions:
-
-
-# add as many "name+comment" entries as necessary
-# (or remove it altogether if you haven't collaborated with anyone)
-collaboration:
-  - name:
-    comment: >-
       
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
-code:
-  - comment:
-    url:
-    licence:
-
+code: 
+- comment: Max 7 Tutorials: 7.2 Basic Drum Sequencer—introducing [live.grid]
+    url: https://www.youtube.com/watch?v=KADG-9qgO00
+    licence: Open licence
+    
+- comment: Max | Designing your own Reverb (with gen~) 
+    url: https://ccrma.stanford.edu/~jos/pasp/Schroeder_Reverberators.html
+    licence: Open licence
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external assets)
-assets:
-  - comment:
-    url:
-    licence:
+assets: Sound library - Roland TR 808
+  - comment: Basic Roland drum kit
+    url: https://www.drumkito.com/sample-packs/roland-tr-808-sample-pack/
+    licence: Free sample pack, owned by drumkito.com
