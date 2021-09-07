@@ -1,5 +1,4 @@
 # (Titlu)
-(Scurtă descriere)
 Drum machine - un sequencer cu 16 pasi si functie de random pattern. Contine si un reverb pe master channel, cu un knob de dry/wet.
 ## (Instalare)
 ...
