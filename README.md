@@ -15,7 +15,9 @@ Exemplu:
 (1.01) First functional version
 
 ## Link-uri
-N/A
+https://www.youtube.com/watch?v=KADG-9qgO00
+https://ccrma.stanford.edu/~jos/pasp/Schroeder_Reverberators.html
+https://www.youtube.com/watch?v=F_FhvxT5mLA
 
 # Dezvoltarea proiectului
 
