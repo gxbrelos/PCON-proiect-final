@@ -10,12 +10,12 @@ Este necesara utilizarea programului Max 8 pentru a putea rula.
 
 Exemplu:
 ![](assets/projectDemo.gif)
-## (Istoric)
+## Istoric
 
 (1.01) First functional version
 
-## (Link-uri)
-...
+## Link-uri
+N/A
 
 # Dezvoltarea proiectului
 
